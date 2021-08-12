@@ -1,11 +1,10 @@
 <img src="https://media.giphy.com/media/2lSNErRCiZPck/giphy.gif">
 
 ### Seja bem vindo(a)! 😆
-Meu nome é Jackeline, sou estudante de Tecnologia da Informação da Univesp. Sou apaixonada por tecnologia e por isso estou sempre procurando maneiras novas de me aprimorar.
-Atualmente estou me desenvolvendo e aprimorando para obter mais conhecimentos nas áreas de web para me tornar Fullstack!
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+Meu nome é Jackeline, tenho 26 anos, sou estudante de Tecnologia da Informação da Univesp. Sou apaixonada por tecnologia e por isso estou sempre procurando maneiras novas de me aprimorar.
+
+🚀 Estudando para me tornar uma desenvolvedora Front End
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackeline-code&layout=compact )](https://github.com/jackeline-code/github-readme-stats)
 
