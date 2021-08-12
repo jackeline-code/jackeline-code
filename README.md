@@ -1,7 +1,8 @@
 <img src="https://media.giphy.com/media/2lSNErRCiZPck/giphy.gif">
 
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
+### Seja bem vindo(a)! 😆
+Meu nome é Jackeline, sou estudante de Tecnologia da Informação da Univesp. Sou apaixonada por tecnologia e por isso estou sempre procurando maneiras novas de me aprimorar.
+Aqui você pode encontrar todos os meus projetos!
 - 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
 - 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
 - 🤝 I’m looking to collaborate on data science and deep learning projects. 
