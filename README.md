@@ -7,7 +7,7 @@
 Meu nome é Jackeline, tenho 26 anos, sou estudante de Tecnologia da Informação da Univesp. Sou apaixonada por tecnologia e por isso estou sempre procurando maneiras novas de me aprimorar.
 
 <p align="center">
-🐱‍🚀 Estudando para me tornar uma desenvolvedora Front End 
+🐱‍🚀 Estudando para me tornar uma excelente profissional de TI!
 
 
 </p>
