@@ -12,7 +12,7 @@ Meu maior objetivo atualmente é me tornar uma Programadora capaz de mudar o mun
 
 
 <h2>Tecnologias que uso</h2>
-
+<p align="center">
 <table>
     <tr>
         <td><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></td>
@@ -26,6 +26,7 @@ Meu maior objetivo atualmente é me tornar uma Programadora capaz de mudar o mun
 	<td><img alt="MongoDB" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></td>   
     </tr>
 </table>
+</p>
   
 <h2>Contato</h2>  
   
