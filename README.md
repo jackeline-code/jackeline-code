@@ -5,9 +5,9 @@
 
 <h1 align="center">Olá, seja bem vindo(a)! (^ – ^ *) / </h1>
 
-Meu nome é Jackeline, tenho 26 anos, sou estudante de Tecnologia da Informação da Univesp. Sou apaixonada por tecnologia e por isso estou sempre procurando maneiras novas de me aprimorar.
+Meu nome é Jackeline, tenho 26 anos, sou estudante de Engenharia da computaçãoe sou apaixonada por tecnologia, jogos, livros e meu maior objetivo atualmente é me tornar uma Programadora capaz de mudar o mundo a minha volta.
 
-🐱‍🚀 Estudando para me tornar uma excelente profissional de TI!
+🐱‍🚀 Estudando para me tornar uma excelente pessoa e profissional de TI!
 
 
 <h2>Tecnologias que uso</h2>
@@ -25,8 +25,6 @@ Meu nome é Jackeline, tenho 26 anos, sou estudante de Tecnologia da Informaçã
 	<td><img alt="MongoDB" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></td>   
     </tr>
 </table>
-
-  
   
 <h2>Contato</h2>  
   
