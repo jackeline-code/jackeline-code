@@ -5,7 +5,8 @@
 
 <h1 align="center">Olá, seja bem vindo(a)! (^ – ^ *) / </h1>
 
-Meu nome é Jackeline, tenho 26 anos, sou estudante de Engenharia da computaçãoe sou apaixonada por tecnologia, jogos, livros e meu maior objetivo atualmente é me tornar uma Programadora capaz de mudar o mundo a minha volta.
+Meu nome é Jackeline, tenho 26 anos, sou estudante de Engenharia da computaçãoe sou apaixonada por tecnologia, jogos, livros, doramas. 
+Meu maior objetivo atualmente é me tornar uma Programadora capaz de mudar o mundo a minha volta.
 
 #boramudaromundo#foco#forcanaperuca#mulheresnati
 
