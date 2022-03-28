@@ -7,7 +7,7 @@
 
 Meu nome é Jackeline, tenho 26 anos, sou estudante de Engenharia da computaçãoe sou apaixonada por tecnologia, jogos, livros e meu maior objetivo atualmente é me tornar uma Programadora capaz de mudar o mundo a minha volta.
 
-🐱‍🚀 Estudando para me tornar uma excelente pessoa e profissional de TI!
+#boramudaromundo#foco#forcanaperuca#mulheresnati
 
 
 <h2>Tecnologias que uso</h2>
