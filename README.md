@@ -10,7 +10,7 @@ Meu nome é Jackeline, tenho 26 anos, sou estudante de Tecnologia da Informaçã
 🐱‍🚀 Estudando para me tornar uma excelente profissional de TI!
 
 
-<h2>Principais Interesses</h2>
+<h2>Tecnologias que uso</h2>
 
 <table>
     <tr>
